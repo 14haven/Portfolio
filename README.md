@@ -37,6 +37,7 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 
 ![레시피게시판 카테고리](https://user-images.githubusercontent.com/73207547/114968587-a2a42b00-9eb1-11eb-8d8b-cc61dd5eb62a.gif)
 
+<br>
 
 2. 레시피 게시판 페이징 기능
 
@@ -44,9 +45,6 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 |:--------:|:--------: |
 |카테고리 페이지로 이동, 페이징 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/rboard/controller/RboardAllSelectServlet.java)</center> | 
 |게시물 있는 경우, 페이징 JSP | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardAllListPage.jsp)</center> | 
-
-
-> 레시피 공유 게시판 페이징 기능 <br>
 
 ![페이징](https://user-images.githubusercontent.com/73207547/114968677-cd8e7f00-9eb1-11eb-8b69-6a8ad0edf058.gif)
 
