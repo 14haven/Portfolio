@@ -48,15 +48,37 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 
 ![페이징](https://user-images.githubusercontent.com/73207547/114968677-cd8e7f00-9eb1-11eb-8b69-6a8ad0edf058.gif)
 
-> 레시피 공유 게시판 검색 기능 <br>
+<br>
+
+3. 레시피 공유 게시판 검색 기능
+
+|<center>JSP & Servlet</center>| <center>Link</center> |
+|:--------:|:--------: |
+|검색 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/rboard/controller/RboardSearchServlet.java)</center> | 
+|검색 결과 JSP | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardSearchListPage.jsp)</center> | 
+|검색 상세페이지 JSP | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardSearchPost.jsp)</center> | 
 
 ![검색](https://user-images.githubusercontent.com/73207547/114968679-d0896f80-9eb1-11eb-84de-ca26ad951fca.gif)
 
-> 레시피 공유 게시판 상세페이지 <br>
+<br>
+
+4. 레시피 공유 게시판 상세 페이지
+
+|<center>JSP & Servlet</center>| <center>Link</center> |
+|:--------:|:--------: |
+|상세페이지로 가기 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/rboard/controller/RboardPostServlet.java)</center> | 
+|상세페이지 JSP | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardPost.jsp)</center> | 
 
 ![상세페이지](https://user-images.githubusercontent.com/73207547/114968698-d97a4100-9eb1-11eb-89a8-f4b49be3afa1.gif)
 
-> 레시피 공유 게시판 글 작성 <br>
+<br>
+
+5. 레시피 공유 게시판 글 작성
+
+|<center>JSP & Servlet</center>| <center>Link</center> |
+|:--------:|:--------: |
+|글 작성 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/rboard/controller/RboardInsertServlet.java)</center> | 
+|글 작성 JSP | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardInsertPage.jsp)</center> | 
 
 ![글 작성](https://user-images.githubusercontent.com/73207547/114968704-dd0dc800-9eb1-11eb-8a31-a222d8748153.gif)
 
