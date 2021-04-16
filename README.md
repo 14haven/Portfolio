@@ -179,7 +179,7 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 
 <br>
 
-2. 네이버 소셜 로그인
+2. 네이버 소셜 로그인 기능 - 네이버 소셜 로그인 api 사용
 
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
@@ -192,7 +192,7 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 
 <br>
 
-3. 회원가입 
+3. 회원가입 - 이메일 인증 api, daum 우편번호  api 사용, ajax를 이용한 아이디 중복 확인, 정규식 사용
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
