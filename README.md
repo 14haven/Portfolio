@@ -165,18 +165,96 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 주문 내역, 주문 상세 내역(주문 취소하기), 내가 작성한 리뷰 내역(리뷰 삭제 가능), Ajax를 이용한 장바구니 기능 구현
 
 #### 담당 기능 리뷰
+
+1. 메인 - 판매량 TOP4 조회
+
+|<center>JSP & Servlet</center>| <center>Link</center> |
+|:--------:|:--------: |
+|글 작성 JSP | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardInsertPage.jsp)</center> | 
+|글 작성 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/rboard/controller/RboardInsertServlet.java)</center> | 
+
 ![메인](https://user-images.githubusercontent.com/73207547/114972333-46450980-9eb9-11eb-8eab-974456e1f557.gif)
+
+<br>
+
+2. 네이버 소셜 로그인
+
 ![네이버 로그인api](https://user-images.githubusercontent.com/73207547/114972328-4513dc80-9eb9-11eb-96a6-b5a18dc645e3.gif)
+
+<br>
+
+3. 회원가입
+ 
 ![회원가입](https://user-images.githubusercontent.com/73207547/114972348-49d89080-9eb9-11eb-8660-e361523e9776.gif)
+
+<br>
+
+4. 로그인
+
 ![로그인](https://user-images.githubusercontent.com/73207547/114972329-45ac7300-9eb9-11eb-87ea-c87ce8502f08.gif)
+
+<br>
+
+5. 개인 정보 수정
+
 ![개인정보수정](https://user-images.githubusercontent.com/73207547/114972321-434a1900-9eb9-11eb-8609-0844c38eee42.gif)
+
+<br>
+
+6. 탈퇴
+ 
 ![탈퇴](https://user-images.githubusercontent.com/73207547/114972347-493ffa00-9eb9-11eb-9b67-0c6cd47139bb.gif)
+
+<br>
+
+7. 검색
+
 ![검색](https://user-images.githubusercontent.com/73207547/114972325-4513dc80-9eb9-11eb-93bd-b0100c62201d.gif)
+
+<br>
+
+8. 장바구니 비었을 경우
+
 ![장바구니 비었을경우](https://user-images.githubusercontent.com/73207547/114972338-47763680-9eb9-11eb-931a-1dbf7aa5c392.gif)
+
+<br>
+
+9. 장바구니 담기
+
 ![장바구니 담기](https://user-images.githubusercontent.com/73207547/114972336-46dda000-9eb9-11eb-846b-cabc374d24dc.gif)
+
+<br>
+
+10. 장바구니 페이지
+
 ![장바구니페이지](https://user-images.githubusercontent.com/73207547/114972340-47763680-9eb9-11eb-8c0b-f37bb20a9e7e.gif)
+
+<br>
+
+11. 주문조회 페이지 - 페이징 기능
+
 ![주문조회 페이징](https://user-images.githubusercontent.com/73207547/114972343-48a76380-9eb9-11eb-9ff3-679a325bf04a.gif)
+
+<br>
+
+12. 주문조회 페이지 - 주문 상세 페이지
+
 ![주문상세페이지](https://user-images.githubusercontent.com/73207547/114972342-480ecd00-9eb9-11eb-9a1a-903ef942a7e0.gif)
+
+<br>
+
+13. 주문조회 페이지 - 주문 취소하기
+
 ![주문취소하기](https://user-images.githubusercontent.com/73207547/114972345-48a76380-9eb9-11eb-8dfe-4708ea3adfc1.gif)
+
+<br>
+
+14. 주문 조회 페이지 - 배송 완료된 상태만 리뷰 달기 가능
+
 ![배송완료되고 리뷰](https://user-images.githubusercontent.com/73207547/114972334-46dda000-9eb9-11eb-8fae-376d1173e3e6.gif)
+
+<br>
+
+15. 내가 작성한 리뷰 목록 확인하기
+
 ![리뷰목록](https://user-images.githubusercontent.com/73207547/114972331-45ac7300-9eb9-11eb-8219-73bae8259851.gif)
