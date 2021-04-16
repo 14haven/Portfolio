@@ -224,64 +224,115 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 
 5. 개인 정보 수정
 
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
+|:--------:|:--------: |
+|개인정보 수정 폼 JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/myHerb/memberUpdateForm.jsp)</center> | 
+|개인정보 수정 Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/myherb/model/controller/MyHerbController.java#L47)</center> | 
+
 ![개인정보수정](https://user-images.githubusercontent.com/73207547/114972321-434a1900-9eb9-11eb-8609-0844c38eee42.gif)
 
 <br>
 
 6. 탈퇴
- 
+
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
+|:--------:|:--------: |
+|탈퇴 폼 JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/myHerb/memberDeleteForm.jsp)</center> | 
+|탈퇴 Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/myherb/model/controller/MyHerbController.java#L70)</center> | 
+
+
 ![탈퇴](https://user-images.githubusercontent.com/73207547/114972347-493ffa00-9eb9-11eb-9b67-0c6cd47139bb.gif)
 
 <br>
 
-7. 검색
 
-![검색](https://user-images.githubusercontent.com/73207547/114972325-4513dc80-9eb9-11eb-93bd-b0100c62201d.gif)
+7. 장바구니 비었을 경우
 
-<br>
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
+|:--------:|:--------: |
+|장바구니 비었을 경우 Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/cart/controller/CartController.java#L76)</center> | 
+|장바구니 비었을 경우 JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/cart/noCart.jsp)</center> | 
 
-8. 장바구니 비었을 경우
 
 ![장바구니 비었을경우](https://user-images.githubusercontent.com/73207547/114972338-47763680-9eb9-11eb-931a-1dbf7aa5c392.gif)
 
 <br>
 
-9. 장바구니 담기
+8. 장바구니 담기 - ajax 이용하여 카트 담기, 로그인 안했을 경우, 이미 카트에 담겼을 경우 alert 창 띄우기
+
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
+|:--------:|:--------: |
+|장바구니 담기 JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/webapp/WEB-INF/views/product/productInfo.jsp#L362)</center> | 
+|장바구니 담기 ajax | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/webapp/WEB-INF/views/product/productInfo.jsp#L192)</center> | 
+|장바구니 담기 Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/cart/controller/CartController.java#L29)</center> | 
+
 
 ![장바구니 담기](https://user-images.githubusercontent.com/73207547/114972336-46dda000-9eb9-11eb-846b-cabc374d24dc.gif)
 
 <br>
 
-10. 장바구니 페이지
+9. 장바구니 페이지 - 체크박스 이용하여 모두 선택 가능,  선택하여 ajax로 상품 삭제 가능, 개별 삭제 가능, 수량 변경 가능
+
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
+|:--------:|:--------: |
+|장바구니 페이지 JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/cart/cartList.jsp)</center> | 
+|장바구니 Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/cart/controller/CartController.java#L76)</center> | 
+|장바구니 목록 불러오기 mapper | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/mapper/cart-mapper.xml#L48)</center> | 
 
 ![장바구니페이지](https://user-images.githubusercontent.com/73207547/114972340-47763680-9eb9-11eb-8c0b-f37bb20a9e7e.gif)
 
 <br>
 
-11. 주문조회 페이지 - 페이징 기능
+10. 주문조회 페이지 - 주문 조회해오기, 페이징 기능
+
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
+|:--------:|:--------: |
+|주문 조회 페이지 JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/myHerb/memberOrder.jsp)</center> | 
+|주문 조회 Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/myherb/model/controller/MyHerbController.java#L93)</center> | 
+|주문 조회 mapper | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/mapper/myherb-mapper.xml#L92)</center> | 
 
 ![주문조회 페이징](https://user-images.githubusercontent.com/73207547/114972343-48a76380-9eb9-11eb-9ff3-679a325bf04a.gif)
 
 <br>
 
-12. 주문조회 페이지 - 주문 상세 페이지
+11. 주문조회 페이지 - 주문 상세 페이지
+
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
+|:--------:|:--------: |
+|주문 상세 페이지  JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/myHerb/memberOrderDetail.jsp)</center> | 
+|주문 상세 페이지 Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/myherb/model/controller/MyHerbController.java#L145)</center> | 
+|주문 상세 페이지 mapper | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/mapper/myherb-mapper.xml#L110)</center> | 
 
 ![주문상세페이지](https://user-images.githubusercontent.com/73207547/114972342-480ecd00-9eb9-11eb-9a1a-903ef942a7e0.gif)
 
 <br>
 
-13. 주문조회 페이지 - 주문 취소하기
+12. 주문조회 페이지 - 주문 취소하기
+
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
+|:--------:|:--------: |
+|주문 취소하기  JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/webapp/WEB-INF/views/myHerb/memberOrderDetail.jsp#L190)</center> | 
+|주문 취소하기 Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/myherb/model/controller/MyHerbController.java#L168)</center> | 
 
 ![주문취소하기](https://user-images.githubusercontent.com/73207547/114972345-48a76380-9eb9-11eb-8dfe-4708ea3adfc1.gif)
 
 <br>
 
-14. 주문 조회 페이지 - 배송 완료된 상태만 리뷰 달기 가능
+13. 주문 조회 페이지 - 배송 완료된 상태만 리뷰 달기 가능
+
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
+|:--------:|:--------: |
+|배송 완료된 상태만 리뷰 달기 가능  JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/webapp/WEB-INF/views/product/productInfo.jsp#L652)</center> | 
 
 ![배송완료되고 리뷰](https://user-images.githubusercontent.com/73207547/114972334-46dda000-9eb9-11eb-8fae-376d1173e3e6.gif)
 
 <br>
 
-15. 내가 작성한 리뷰 목록 확인하기
+14. 내가 작성한 리뷰 목록 조회 & 삭제하기
+
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
+|:--------:|:--------: |
+|내가 작성한 리뷰 목록  JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/myHerb/reviewList.jsp)</center> | 
+|내가 작성한 리뷰 목록  Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/myherb/model/controller/MyHerbController.java#L189)</center> | 
 
 ![리뷰목록](https://user-images.githubusercontent.com/73207547/114972331-45ac7300-9eb9-11eb-8219-73bae8259851.gif)
