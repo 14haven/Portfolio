@@ -27,7 +27,7 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 *  DB 및 ERD 설계, Ajax를 이용한 회원 정보 수정, 회원 탈퇴, 레시피 공유 게시판 UI 설계 및 구현, 레시피 공유 게시판 CRUD, 레시피 공유 게시판 페이징 및 검색, 파일 업로드 처리, 카테고리별 기능 처리
 
 #### 담당 기능 리뷰
-레시피 게시판 카테고리 기능
+- 레시피 게시판 카테고리 기능
 JSP | [Link](https://blog.naver.com/blackskirtz)
 ------------ | -------------
 
