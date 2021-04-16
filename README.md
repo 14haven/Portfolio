@@ -168,10 +168,12 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 
 1. 메인 - 판매량 TOP4 조회
 
-|<center>JSP & Servlet</center>| <center>Link</center> |
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
-|글 작성 JSP | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardInsertPage.jsp)</center> | 
-|글 작성 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/rboard/controller/RboardInsertServlet.java)</center> | 
+|판매량 높이기 mapper | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/mapper/order-mapper.xml#L173)</center> | 
+|판매량 TOP4 조회 mapper | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/mapper/cart-mapper.xml#L73)</center> | 
+|메인 JSP | <center> [링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/index.jsp)</center> | 
+
 
 ![메인](https://user-images.githubusercontent.com/73207547/114972333-46450980-9eb9-11eb-8eab-974456e1f557.gif)
 
