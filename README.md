@@ -26,9 +26,18 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 #### 담당 역할
 *  DB 및 ERD 설계, Ajax를 이용한 회원 정보 수정, 회원 탈퇴, 레시피 공유 게시판 UI 설계 및 구현, 레시피 공유 게시판 CRUD, 레시피 공유 게시판 페이징 및 검색, 파일 업로드 처리, 카테고리별 기능 처리
 
-![image](https://user-images.githubusercontent.com/73207547/114968293-0417ca00-9eb1-11eb-9e54-e2fe2191be1d.png)
 
+![레시피게시판 카테고리](https://user-images.githubusercontent.com/73207547/114968587-a2a42b00-9eb1-11eb-8d8b-cc61dd5eb62a.gif)
 
+![페이징](https://user-images.githubusercontent.com/73207547/114968677-cd8e7f00-9eb1-11eb-8b69-6a8ad0edf058.gif)
+
+![검색](https://user-images.githubusercontent.com/73207547/114968679-d0896f80-9eb1-11eb-84de-ca26ad951fca.gif)
+![상세페이지](https://user-images.githubusercontent.com/73207547/114968698-d97a4100-9eb1-11eb-89a8-f4b49be3afa1.gif)
+![글 작성](https://user-images.githubusercontent.com/73207547/114968704-dd0dc800-9eb1-11eb-8a31-a222d8748153.gif)
+![글 수정](https://user-images.githubusercontent.com/73207547/114968709-ded78b80-9eb1-11eb-8590-7c23f23770d3.gif)
+![글 삭제](https://user-images.githubusercontent.com/73207547/114968713-e0a14f00-9eb1-11eb-86c3-6add2d68f032.gif)
+![개인정보수정](https://user-images.githubusercontent.com/73207547/114968724-e5fe9980-9eb1-11eb-93a6-5e4a124785bd.gif)
+![탈퇴](https://user-images.githubusercontent.com/73207547/114968730-e8f98a00-9eb1-11eb-9b90-9882d39270d5.gif)
 ## 🐥 파이널 프로젝트
 > 어른허브
 
