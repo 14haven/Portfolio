@@ -77,27 +77,54 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 
 |<center>JSP & Servlet</center>| <center>Link</center> |
 |:--------:|:--------: |
-|글 작성 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/rboard/controller/RboardInsertServlet.java)</center> | 
 |글 작성 JSP | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardInsertPage.jsp)</center> | 
+|글 작성 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/rboard/controller/RboardInsertServlet.java)</center> | 
+
 
 ![글 작성](https://user-images.githubusercontent.com/73207547/114968704-dd0dc800-9eb1-11eb-8a31-a222d8748153.gif)
 
-> 레시피 공유 게시판 글 수정 <br>
+<br>
+
+6. 레시피 공유 게시판 글 수정
+
+|<center>JSP & Servlet</center>| <center>Link</center> |
+|:--------:|:--------: |
+|글 수정 JSP | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardUptPage.jsp)</center> | 
+|글 수정 Servlet | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/rboard/controller/RboardUptServlet.java)</center> | 
 
 ![글 수정](https://user-images.githubusercontent.com/73207547/114968709-ded78b80-9eb1-11eb-8590-7c23f23770d3.gif)
 
-> 레시피 공유 게시판 글 삭제 <br>
+<br>
+
+7. 레시피 공유 게시판 글 삭제
+
+|<center>JSP & Servlet</center>| <center>Link</center> |
+|:--------:|:--------: |
+|글 삭제 JSP | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardPost.jsp)</center> | 
+|글 삭제 Servlet | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/rboard/controller/RboardDelServlet.java)</center> | 
 
 ![글 삭제](https://user-images.githubusercontent.com/73207547/114968713-e0a14f00-9eb1-11eb-86c3-6add2d68f032.gif)
 
-> 레시피 공유 게시판 개인정보 수정 <br>
+<br>
+
+8. 레시피 공유 게시판 개인정보 수정
+
+|<center>JSP & Servlet</center>| <center>Link</center> |
+|:--------:|:--------: |
+|개인정보 수정 전 비밀번호 확인 폼 JSP | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/member/memberMyPageForm.jsp)</center> | 
+|개인정보 수정 비밀번호 확인 Servlet | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/member/cotroller/MemberMyPagePwServlet.java)</center> | 
+|개인정보 수정 폼 JSP | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/member/memberMyPageForm.jsp)</center> | 
+
 
 ![개인정보수정](https://user-images.githubusercontent.com/73207547/114968724-e5fe9980-9eb1-11eb-93a6-5e4a124785bd.gif)
 
-> 레시피 공유 게시판 탈퇴 <br>
+<br>
+
+9. 레시피 공유 게시판 탈퇴 
 
 ![탈퇴](https://user-images.githubusercontent.com/73207547/114968730-e8f98a00-9eb1-11eb-9b90-9882d39270d5.gif)
 
+<br>
 
 ## 🐥 파이널 프로젝트
 > 어른허브
