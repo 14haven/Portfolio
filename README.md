@@ -181,17 +181,42 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 
 2. 네이버 소셜 로그인
 
+
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
+|:--------:|:--------: |
+|네이버 소셜 로그인 JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/webapp/WEB-INF/views/member/memberLoginForm.jsp#L87)</center> | 
+|네이버 소셜 로그인 Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/member/controller/MemberController.java#L59)</center> | 
+|네이버 소셜 로그인 Controller2| <center> [링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/java/com/kh/herb/member/controller/NaverController.java)</center> | 
+
 ![네이버 로그인api](https://user-images.githubusercontent.com/73207547/114972328-4513dc80-9eb9-11eb-96a6-b5a18dc645e3.gif)
 
 <br>
 
-3. 회원가입
- 
+3. 회원가입 
+
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
+|:--------:|:--------: |
+|회원가입 폼 JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/member/memberJoinForm.jsp)</center> | 
+|회원가입 Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/member/controller/MemberController.java#L178)</center> | 
+|비밀번호 암호화 | <center>[링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/java/com/kh/herb/member/controller/Sha256Util.java)</center> | 
+|회원가입 mapper | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/mapper/member-mapper.xml#L30)</center> | 
+
+
 ![회원가입](https://user-images.githubusercontent.com/73207547/114972348-49d89080-9eb9-11eb-8660-e361523e9776.gif)
 
 <br>
 
 4. 로그인
+
+|<center>JSP & Controller & mapper</center>| <center>Link</center> |
+|:--------:|:--------: |
+|로그인 폼 JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/member/memberLoginForm.jsp)</center> | 
+|로그인 Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/member/controller/MemberController.java#L139)</center> | 
+|아이디 찾기 폼 JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/member/memberIdSearch.jsp)</center> | 
+|아이디 찾기 Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/member/controller/MemberController.java#L263)</center> | 
+|비밀번호 찾기 폼 JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/member/memberPwSearch.jsp)</center> | 
+|비밀번호 변경 폼 JSP | <center>[링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/member/memberPwUpdateForm.jsp)</center> | 
+|비밀번호 찾기 Controller | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/com/kh/herb/member/controller/MemberController.java#L286)</center> | 
 
 ![로그인](https://user-images.githubusercontent.com/73207547/114972329-45ac7300-9eb9-11eb-87ea-c87ce8502f08.gif)
 
