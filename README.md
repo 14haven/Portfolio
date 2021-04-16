@@ -35,7 +35,7 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 |<center>JSP & Servlet</center>| <center>Link</center> |
 |:--------:|:--------: |
 |게시판 첫 화면 JSP | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardCategoryPage.jsp)</center> | 
-|등록된 게시물이 없는 경우 JSP | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardAllListPage.jsp)</center> | 
+|등록된 게시물이 없는 경우 JSP | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/61aee482246e437009dbf1e62bf826cd2ec098b0/0_semiProject/WebContent/rBoard/RboardAllListPage.jsp#L139)</center> | 
 
 
 ![레시피게시판 카테고리](https://user-images.githubusercontent.com/73207547/114968587-a2a42b00-9eb1-11eb-8d8b-cc61dd5eb62a.gif)
@@ -47,7 +47,7 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 |<center>JSP & Servlet</center>| <center>Link</center> |
 |:--------:|:--------: |
 |카테고리 페이지로 이동, 페이징 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/rboard/controller/RboardAllSelectServlet.java)</center> | 
-|게시물 있는 경우, 페이징 JSP | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardAllListPage.jsp)</center> | 
+|게시물 있는 경우, 페이징 JSP | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/61aee482246e437009dbf1e62bf826cd2ec098b0/0_semiProject/WebContent/rBoard/RboardAllListPage.jsp#L199)</center> | 
 
 ![페이징](https://user-images.githubusercontent.com/73207547/114968677-cd8e7f00-9eb1-11eb-8b69-6a8ad0edf058.gif)
 
