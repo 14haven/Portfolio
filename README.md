@@ -30,7 +30,7 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 1. 레시피 게시판 카테고리 기능
 
 |<center>JSP & Servlet</center>| <center>Repository</center> |
-|:--------:|:--------: |:--------:|
+|:--------:|:--------: |
 |게시판 첫 화면 JSP | <center>[Link](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardCategoryPage.jsp)</center> | 
 |등록된 게시물이 없는 경우 JSP | <center> [Link](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/rBoard/RboardAllListPage.jsp)</center> | 
 
