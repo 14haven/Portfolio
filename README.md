@@ -122,6 +122,7 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 <br>
 
 9. 레시피 공유 게시판 탈퇴 
+
 |<center>JSP & Servlet</center>| <center>Link</center> |
 |:--------:|:--------: |
 |탈퇴 폼 JSP | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/member/memberDelForm.jsp)</center> | 
