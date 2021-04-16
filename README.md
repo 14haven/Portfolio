@@ -114,7 +114,7 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 |개인정보 수정 전 비밀번호 확인 폼 JSP | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/views/memberMyPage.jsp)</center> | 
 |개인정보 수정 비밀번호 확인 Servlet | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/member/cotroller/MemberMyPagePwServlet.java)</center> | 
 |개인정보 수정 폼 JSP | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/member/memberMyPageForm.jsp)</center> | 
-|닉네임 중복 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/member/cotroller/MemberNickCheckServlet.java)</center> | 
+|Ajax 사용한 닉네임 중복 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/member/cotroller/MemberNickCheckServlet.java)</center> | 
 |개인정보 수정 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/member/cotroller/MemberUpdateServlet.java)</center> |
 
 ![개인정보수정](https://user-images.githubusercontent.com/73207547/114968724-e5fe9980-9eb1-11eb-93a6-5e4a124785bd.gif)
@@ -143,3 +143,13 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 * Mybatis, Spring MVC 패턴 구현을 통해 동작 원리를 이해한다.
 * 쇼핑로서의 제 기능을 수행하도록 한다.
 * 여러가지 API를 적용해본다.
+
+
+#### 담당 역할
+* 팀장, DB 설계, 메인 - 판매 TOP4 조회, 회원관리 - 우편번호API, 이메일 인증API, 비밀번호 암호화를 사용한 회원가입,
+로그인&로그아웃, 아이디 및 비밀번호 찾기, 네이버 소셜 로그인 API 적용, 마이페이지 - 회원정보 수정, 회원 탈퇴, 
+주문 내역, 주문 상세 내역(주문 취소하기), 내가 작성한 리뷰 내역(리뷰 삭제 가능), Ajax를 이용한 장바구니 기능 구현
+
+#### 담당 기능 리뷰
+
+
