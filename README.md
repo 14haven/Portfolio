@@ -111,16 +111,21 @@ Blog | [Link](https://blog.naver.com/blackskirtz)
 
 |<center>JSP & Servlet</center>| <center>Link</center> |
 |:--------:|:--------: |
-|개인정보 수정 전 비밀번호 확인 폼 JSP | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/member/memberMyPageForm.jsp)</center> | 
+|개인정보 수정 전 비밀번호 확인 폼 JSP | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/views/memberMyPage.jsp)</center> | 
 |개인정보 수정 비밀번호 확인 Servlet | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/member/cotroller/MemberMyPagePwServlet.java)</center> | 
 |개인정보 수정 폼 JSP | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/member/memberMyPageForm.jsp)</center> | 
-
+|닉네임 중복 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/member/cotroller/MemberNickCheckServlet.java)</center> | 
+|개인정보 수정 Servlet | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/member/cotroller/MemberUpdateServlet.java)</center> |
 
 ![개인정보수정](https://user-images.githubusercontent.com/73207547/114968724-e5fe9980-9eb1-11eb-93a6-5e4a124785bd.gif)
 
 <br>
 
 9. 레시피 공유 게시판 탈퇴 
+|<center>JSP & Servlet</center>| <center>Link</center> |
+|:--------:|:--------: |
+|탈퇴 폼 JSP | <center>[링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/WebContent/member/memberDelForm.jsp)</center> | 
+|탈퇴 Servlet | <center> [링크](https://github.com/CookAndHerb/SemiProject/blob/master/0_semiProject/src/com/recipe/member/cotroller/MemberDeleteServlet.java)</center> | 
 
 ![탈퇴](https://user-images.githubusercontent.com/73207547/114968730-e8f98a00-9eb1-11eb-9b90-9882d39270d5.gif)
 
