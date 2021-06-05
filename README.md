@@ -1,8 +1,4 @@
 # Portfolio
-## 👨‍🔧 About Me
-### 
-Blog | [Link](https://blog.naver.com/blackskirtz)
------------- | -------------
 
 
 ## 🥚 팀 프로젝트
