@@ -162,20 +162,7 @@
 
 #### 담당 기능 리뷰
 
-1. 메인 - 판매량 TOP4 조회
-
-|<center>JSP & Controller & mapper</center>| <center>Link</center> |
-|:--------:|:--------: |
-|판매량 높이기 mapper | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/mapper/order-mapper.xml#L173)</center> | 
-|판매량 TOP4 조회 mapper | <center>[링크](https://github.com/CookAndHerb/herb/blob/baddba216926911edaa52ee6eb951b88ede4572a/herb/src/main/java/mapper/cart-mapper.xml#L73)</center> | 
-|메인 JSP | <center> [링크](https://github.com/CookAndHerb/herb/blob/master/herb/src/main/webapp/WEB-INF/views/index.jsp)</center> | 
-
-
-![메인](https://user-images.githubusercontent.com/73207547/114972333-46450980-9eb9-11eb-8eab-974456e1f557.gif)
-
-<br>
-
-2. 네이버 소셜 로그인 기능 - 네이버 소셜 로그인 api 사용
+1. 네이버 소셜 로그인 기능 - 네이버 소셜 로그인 api 사용
 
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
@@ -188,7 +175,7 @@
 
 <br>
 
-3. 회원가입 - 이메일 인증 api, daum 우편번호  api 사용, ajax를 이용한 아이디 중복 확인, 정규식 사용
+2. 회원가입 - 이메일 인증 api, daum 우편번호  api 사용, ajax를 이용한 아이디 중복 확인, 정규식 사용
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
@@ -202,7 +189,7 @@
 
 <br>
 
-4. 로그인
+3. 로그인
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
@@ -218,7 +205,7 @@
 
 <br>
 
-5. 개인 정보 수정
+4. 개인 정보 수정
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
@@ -229,7 +216,7 @@
 
 <br>
 
-6. 탈퇴
+5. 탈퇴
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
@@ -242,7 +229,7 @@
 <br>
 
 
-7. 장바구니 비었을 경우
+6. 장바구니 비었을 경우
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
@@ -254,7 +241,7 @@
 
 <br>
 
-8. 장바구니 담기 - ajax 이용하여 카트 담기, 로그인 안했을 경우, 이미 카트에 담겼을 경우 alert 창 띄우기
+7. 장바구니 담기 - ajax 이용하여 카트 담기, 로그인 안했을 경우, 이미 카트에 담겼을 경우 alert 창 띄우기
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
@@ -267,7 +254,7 @@
 
 <br>
 
-9. 장바구니 페이지 - 체크박스 이용하여 모두 선택 가능,  선택하여 ajax로 상품 삭제 가능, 개별 삭제 가능, 수량 변경 가능
+8. 장바구니 페이지 - 체크박스 이용하여 모두 선택 가능,  선택하여 ajax로 상품 삭제 가능, 개별 삭제 가능, 수량 변경 가능
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
@@ -279,7 +266,7 @@
 
 <br>
 
-10. 주문조회 페이지 - 주문 조회해오기, 페이징 기능
+9. 주문조회 페이지 - 주문 조회해오기, 페이징 기능
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
@@ -291,7 +278,7 @@
 
 <br>
 
-11. 주문조회 페이지 - 주문 상세 페이지
+10. 주문조회 페이지 - 주문 상세 페이지
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
@@ -303,7 +290,7 @@
 
 <br>
 
-12. 주문조회 페이지 - 주문 취소하기
+11. 주문조회 페이지 - 주문 취소하기
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
@@ -314,7 +301,7 @@
 
 <br>
 
-13. 주문 조회 페이지 - 배송 완료된 상태만 리뷰 달기 가능
+12. 주문 조회 페이지 - 배송 완료된 상태만 리뷰 달기 가능
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
@@ -324,7 +311,7 @@
 
 <br>
 
-14. 내가 작성한 리뷰 목록 조회 & 삭제하기
+13. 내가 작성한 리뷰 목록 조회 & 삭제하기
 
 |<center>JSP & Controller & mapper</center>| <center>Link</center> |
 |:--------:|:--------: |
